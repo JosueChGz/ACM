@@ -1,0 +1,6 @@
+#include <cstdio>
+
+int main(){
+  printf("There's gotta be more to life");
+  return 0;
+}
